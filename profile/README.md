@@ -1,5 +1,7 @@
 ## Welcome to the team 🙌
 
+![alt text](https://github.com/elavv-codebase/.github-private/blob/main/profile/Logo%20dark%20theme-1%20niet%20transparant%20-%20bewerkt.png)
+
 <!--
 
 **Here are some ideas to get you started:**
