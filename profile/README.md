@@ -1,14 +1,12 @@
-## Welcome to the team 🙌
+## Hello, World!👋 
 
-![alt text](https://github.com/elavv-codebase/.github-private/blob/main/profile/Logo%20dark%20theme-1%20niet%20transparant%20-%20bewerkt.png)
+Welcome to Elavv's developer community. 🐘
 
-<!--
+<img src="https://github.com/elavv-codebase/.github-private/blob/main/profile/Logo%20dark%20theme-1%20niet%20transparant%20-%20bewerkt.png"  width="300" height="100">
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Proficient developers in the field of Data Science 
+- Extensive knowledge in the field of Acturial Science
+- Optimise large data models
+- Technical documention
+- Expertise in CI/CD and DevOps
