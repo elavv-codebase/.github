@@ -2,7 +2,7 @@
 
 Welcome to Elavv's developer community. 🐘
 
-<img src="Logo_ELAVV_transparant-1-e1665648315303-300x69.png">
+<img src="/profile/Logo_ELAVV_transparant-1-e1665648315303-300x69.png">
 
 
 - Proficient developers in the field of Data Science 
